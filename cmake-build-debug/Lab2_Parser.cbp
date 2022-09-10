@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab2_Parser"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2_Parser">
+				<Option output="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/cmake-build-debug/Lab2_Parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2_Parser"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2_Parser/fast">
+				<Option output="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/cmake-build-debug/Lab2_Parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2_Parser/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/camrynstroud/Desktop/Desktop/C\ S/C\ S\ 236/Lab2_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Comment.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Database.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/DatalogProgram.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/EOFAutomaton.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Expression.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Graph.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Header.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IDAutomaton.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IllegalComment.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IllegalString.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Interpreter.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Lexer.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/MatcherAutomaton.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Node.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parameter.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parser.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/PlainParameter.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Predicate.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Relation.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Rule.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/StringAutomaton.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Tuple.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Undefined.h">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/main.cpp">
+			<Option target="Lab2_Parser"/>
+		</Unit>
+		<Unit filename="/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

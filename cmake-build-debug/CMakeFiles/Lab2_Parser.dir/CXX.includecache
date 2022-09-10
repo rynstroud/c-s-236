@@ -1,0 +1,280 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Comment.h
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Database.h
+map
+-
+string
+-
+iomanip
+-
+Relation.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Relation.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/DatalogProgram.h
+string
+-
+sstream
+-
+exception
+-
+vector
+-
+set
+-
+PlainParameter.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/PlainParameter.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+Rule.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Rule.h
+Predicate.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Predicate.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/EOFAutomaton.h
+cctype
+-
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Expression.h
+sstream
+-
+Parameter.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parameter.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Graph.h
+Node.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Node.h
+map
+-
+stack
+-
+iostream
+-
+vector
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Header.h
+string
+-
+vector
+-
+sstream
+-
+iomanip
+-
+iostream
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IDAutomaton.h
+cctype
+-
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IllegalComment.h
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+Comment.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Comment.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IllegalString.h
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+Comment.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Comment.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Interpreter.h
+DatalogProgram.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/DatalogProgram.h
+Database.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Database.h
+Graph.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Graph.h
+Node.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Node.h
+algorithm
+-
+sstream
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Lexer.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+MatcherAutomaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/MatcherAutomaton.h
+Undefined.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Undefined.h
+StringAutomaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/StringAutomaton.h
+IDAutomaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IDAutomaton.h
+EOFAutomaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/EOFAutomaton.h
+Comment.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Comment.h
+IllegalComment.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IllegalComment.h
+IllegalString.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/IllegalString.h
+vector
+-
+string
+-
+sstream
+-
+iostream
+-
+cctype
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/MatcherAutomaton.h
+string
+-
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Node.h
+set
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parameter.h
+string
+-
+sstream
+-
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parser.h
+string
+-
+sstream
+-
+exception
+-
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+DatalogProgram.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/DatalogProgram.h
+PlainParameter.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/PlainParameter.h
+Expression.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Expression.h
+Predicate.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Predicate.h
+Rule.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Rule.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/PlainParameter.h
+Parameter.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parameter.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Predicate.h
+Parameter.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parameter.h
+string
+-
+sstream
+-
+vector
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Relation.h
+string
+-
+set
+-
+sstream
+-
+iostream
+-
+list
+-
+utility
+-
+Header.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Header.h
+Tuple.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Tuple.h
+Database.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Database.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Rule.h
+sstream
+-
+vector
+-
+Predicate.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Predicate.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/StringAutomaton.h
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+string
+-
+sstream
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Tuple.h
+string
+-
+vector
+-
+iostream
+-
+iomanip
+-
+sstream
+-
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Undefined.h
+string
+-
+sstream
+-
+Token.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Token.h
+Automaton.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Automaton.h
+
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/main.cpp
+fstream
+-
+iostream
+-
+Lexer.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Lexer.h
+Parser.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Parser.h
+Interpreter.h
+/Users/camrynstroud/Desktop/Desktop/C S/C S 236/Lab2_Parser/Interpreter.h
+
